@@ -1,0 +1,32 @@
+{
+  "name": "mui-extend",
+  "version": "1.0.0",
+  "description": "mui extend",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thyiad/mui-extend.git"
+  },
+  "keywords": [
+    "mui",
+    "extend"
+  ],
+  "author": "Thyiad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thyiad/mui-extend/issues"
+  },
+  "homepage": "https://github.com/Thyiad/mui-extend#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-less": "^3.0.5",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.9.1",
+    "gulp-rename": "^1.2.2"
+  }
+}

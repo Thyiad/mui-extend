@@ -1,3 +1,4 @@
+// https://github.com/Thyiad/mui-extend
 (function($) {
 	window.$ = window.mui = $;
 	$.fn.extend = $.extend; // mui默认不为fn添加extend方法，无法理解

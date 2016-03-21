@@ -9,8 +9,8 @@
 
 ### 4.快捷绑定事件
 
-$.tap(), $.click
+待续
 
 ### 5.常用的判断
 
-isPlaintObject()
+待续

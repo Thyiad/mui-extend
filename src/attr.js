@@ -1,7 +1,7 @@
 (function ($) {
 	$.fn.extend({
 		attr:function (name, value) {
-			if (typeof(name)!=="string" || this.length) {
+			if (typeof(name)!=="string" || !this.length) {
 				return;
 			}
 			// 获取属性值
